@@ -6,7 +6,7 @@ Static website for GitHub Pages. It includes the landing page, pricing, Terms of
 
 Open `script.js` and replace `ADD-YOUR-SUPPORT-EMAIL` with the public support email you want customers to use. The Discord install URL is already connected to the bot link from the main OMG Switcharoo README.
 
-Premium checkout is labeled **Coming soon**. Review the legal pages for your business and location before accepting payments; they are a practical starting point, not legal advice.
+Premium checkout links open the published Discord SKUs. Review the legal pages for your business and location; they are a practical starting point, not legal advice.
 
 ## Publish with GitHub Pages
 
